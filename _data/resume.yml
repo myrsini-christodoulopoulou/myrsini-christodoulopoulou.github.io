@@ -1,55 +1,52 @@
 title: Résumé
-name: YOUR NAME
-jobtitle: Your Job Title
+name: Myrsini Christodoulopoulou
+jobtitle: Violin Educator | Aspiring Content & Digital Marketing Specialist
+
 contact:
   - icon: fa-envelope
-    text: youremail@example.com
-  - icon: fa-phone-square
-    text: your-phone-num
+    text: mirchristod@gmail.com
+  - icon: fa-linkedin
+    text: myrsini-christodoulopoulou
+    link: https://www.linkedin.com/in/myrsini-christodoulopoulou
   - icon: fa-globe
-    text: your-website.com
-    link: https://crispgm.github.io/resume/resume.html
+    text: myrsini-christodoulopoulou.github.io
+    link: https://myrsini-christodoulopoulou.github.io/
   - icon: fa-github
-    text: your-github
-    link: https://github.com/crispgm/resume
+    text: myrsini-christodoulopoulou
+    link: https://github.com/myrsini-christodoulopoulou
+
 education:
-  - university: Your First University
-    duration: Jul 2011 - Dec 2012
-    location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
-  - university: Your Second University
-    duration: Aug 2007 - Jun 2011
-    location: Ut enim ad minim veniam
-    major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+  - university: University of Patras
+    duration: Graduated 2013
+    location: Patras, Greece
+    major: Computer Engineering and Informatics (CEID)
+  - university: University of Macedonia
+    duration: Graduated 2020
+    location: Thessaloniki, Greece
+    major: Music Science and Art
+
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: Content & Digital Marketing
+    items: Content writing, Blogging, Social media content (Instagram, LinkedIn), Content repurposing
+  - title: Technical
+    items: Java (refreshing), GitHub, GitHub Pages, Notion
+  - title: Teaching & Professional
+    items: One-to-one and group instruction, Lesson planning, Communication, Self-management
+
 experience:
-  - title: Job Title 1
-    duration: Apr 2016 - Now
-    company: Your 1st, Inc.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: Job Title 2
-    duration: Apr 2013 - Mar 2016
-    company: Your 2nd, Inc.
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-  - title: Job Title 3
-    duration: Dec 2011 - Mar 2012
-    company: Your 3rd Co, Ltd.
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Violin Educator
+    duration: 2009 - Now
+    company: Self-employed
+    description: Teaching violin to beginner and intermediate students in one-to-one and group lessons. Planning lessons, tracking student progress and running my own teaching practice independently for 17 years.
+
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+  - name: Violin Blog
+    description: A blog about learning and teaching the violin, drawing on 17 years of teaching experience. Articles are repurposed into Instagram carousels and LinkedIn posts as a hands-on digital marketing portfolio. Read it at violinbasics.wordpress.com.
+    contribution: Creator and author.
+  
+
 languages:
-  - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
+  - name: Greek
     proficiency: Native
+  - name: English
+    proficiency: Cambridge B2
