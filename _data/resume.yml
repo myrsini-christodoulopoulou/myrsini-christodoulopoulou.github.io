@@ -40,7 +40,9 @@ experience:
     description: Teaching violin to beginner and intermediate students in one-to-one and group lessons. Planning lessons, tracking student progress and running my own teaching practice independently for 17 years.
 
 projects:
+  projects:
   - name: Violin Blog
+    link: https://violinbasics.wordpress.com/
     description: A blog about learning and teaching the violin, drawing on 17 years of teaching experience. Articles are repurposed into Instagram carousels and LinkedIn posts as a hands-on digital marketing portfolio.
     contribution: Creator and author.
   - name: Open Source AI Article
