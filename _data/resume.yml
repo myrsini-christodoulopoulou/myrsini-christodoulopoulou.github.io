@@ -40,13 +40,13 @@ experience:
     description: Teaching violin to beginner and intermediate students in one-to-one and group lessons. Planning lessons, tracking student progress and running my own teaching practice independently for 17 years.
 
 projects:
-  projects:
   - name: Violin Blog
     link: https://violinbasics.wordpress.com/
     description: A blog about learning and teaching the violin, drawing on 17 years of teaching experience. Articles are repurposed into Instagram carousels and LinkedIn posts as a hands-on digital marketing portfolio.
     contribution: Creator and author.
   - name: Open Source AI Article
-    description: An English-language article explaining open source AI models, written as a writing sample beyond the violin niche for content roles. Published on violinbasics.wordpress.com (Writing Samples).
+    link: https://violinbasics.wordpress.com/how-to-choose-an-open-source-ai-model-for-your-project-without-getting-lost-in-the-options/
+    description: An English-language article explaining open source AI models, written as a writing sample beyond the violin niche for content roles.
     contribution: Author.
 
 languages:
